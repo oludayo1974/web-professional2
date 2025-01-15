@@ -58,7 +58,8 @@ h3{
 
 
 .image{
-
+	position: relative;
+	left: 400px;
 		
 }       
 
