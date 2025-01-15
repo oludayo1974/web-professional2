@@ -60,9 +60,9 @@ h3{
 .image{
 
 	
-	position: relative;
+	position: absolute;
 	right: 300px;
-	padding:30px;
+	
 	
 }       
 
