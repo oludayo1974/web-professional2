@@ -62,8 +62,8 @@ h3{
 	
 	width: 450px;
 	height: 200px;
-	position: relative;
-	left: 400px;
+	position: absolute;
+	right: 400px;
 	
 }       
 
