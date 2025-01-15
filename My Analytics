@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Fagbemi Oludayo Personal Website</title>
+</head>
+<body>
+  <table cellspacing="20" border="3">
+	
+	<tr>
+        <td><img src="C:\Users\C C E M\Desktop\Portfolio\Fagbemi pics.jpg/150"</img></td></tr>
+    <tr>
+      <td><h2>Fagbemi Oludayo Olusola</h2>
+        <p><em>Data Manager and <strong>Website Development Specialist</strong></em></p></td>
+    </tr>
+	</table>
+  
+<left><p>I am a certified data manager adding value to health sector in Nigeria. I endeavor achieving career excellence through hard work and application of both my talents, skills and ability in making positive contributions to the development of my organization.</p></left>
+  <hr>
+	<left><h3>EDUCATION</h3>
+  <hr>
+	<h4><ul>
+		<li>Post Graduate Diploma in Public Administration at National Open University of Nigeria and graduated in 2016.</li>
+		<li>Post Graduate Diploma in HIV/AIDS Education and Management at National Open University of Nigeria and graduated in 2012.</li>
+		<li>Higher National Diploma in Chemistry/Biochemistry at the Federal Polytechnic, Offa, Kwara state and graduated in 1998.</li>
+		<li>Ordinary National Diploma in Science Laboratory Technology at Osun State Polytechnic, Iree, Osun State and graduated in 1995.</li>
+		</ul></h4>
+    <br>
+	<h3>CAREER CERTIFICATES AND DIPLOMAS ACQUIRED<h3
+  <hr>
+	<h4><ol>
+		<li>Certificate in full-Stack Website Development at Mesuulogic ICT Training Institute Abuja (On-going) - 2024</li>
+		<li>Certificate in Data Analysis and Visualizaion - MS excel, Power BI, Tableau and SQL at Mesuulogic ICT Training Institute, Abuja - 2024</li>
+		<li>Certificate in Data Analytics by Goggle International - 2024.</li>
+		<li>Certificate in Introduction to DHIS2 by UiO HISP Centre, University of Oslo, Norway - 2024.</li>
+		<li>Diploma in Caregiving by Alison, Republic of Ireland - 2024.
+		<li>Certificate in Monitoring and Evaluation in Global Health by University of Washington, Seattle, USA - 2022.</li>
+		<li>Certificate in Leadership and Management in Global Health by University of Washington, Seattle, USA - 2021.</li>
+		<li>Diploma in Desktop Publishing - 2000</li>
+    </ol></h4>
+  <br>
+
+	<h3>SKILLS ACQUIRED</h3>
+		<hr>
+    <h4><ul>
+		<li>Experience in data collection, data entry, data wrangling, data cleaning and data analysis.</li>
+		<li>Statistical analysis experience such as descriptive and inferential analysis.</li>
+		<li>Data presentation skills</li>
+		<li>Knowledge of use of data tools such as MS Office, PowerPoint, Tableau, Power BI, SQL, and other graphic package.</li>
+    <li>Written and verbal communication skills to stakeholders, team and clients.</li>
+		<li>Attention to detail.</li>
+		<li>Self-motivated, team spirit and experience in multi-tasking.</li>
+		<li>Administrative skills</li>
+    <li>Website development and management</li></ul>
+      </h4>
+      <br>
+<left>
+ <table cellspacing="20" border="3">
+	<thead>
+		<tr>
+			<left><th>My Skills</th>
+		</tr>
+	</thead>
+	<tbody>
+    <tr>
+    <table cellspacing="20" border="3">
+		<tr>
+			<td>Data Management</td>
+			<td>⭐⭐⭐⭐⭐</td>
+		
+			<td>Web Development</td>
+			<td>⭐⭐⭐</td>
+		</tr>
+  <tr>
+			<td>MySQL</td>
+			<td>⭐⭐⭐</td>
+			
+    <td>Tableau</td>
+			<td>⭐⭐⭐⭐</td>
+		</tr>
+  <tr>
+			<td>Power BI</td>
+			<td>⭐⭐⭐</td>
+		
+			<td>Ms Excel</td>
+			<td>⭐⭐⭐⭐</td>
+		</tr>
+  <tr>
+      <td>Ms Word</td>
+			<td>⭐⭐⭐⭐</td>
+		
+			<td>Administration</td>
+			<td>⭐⭐⭐⭐</td>
+	
+</tr>
+    <tr>
+			<td>Attention to Detail</td>
+			<td>⭐⭐⭐⭐</td>
+		
+			<td>Multitasking</td>
+			<td>⭐⭐⭐</td>
+		</tr>
+   </table>
+</body>
+
+<br> 
+<h3>TRAININGS RECEIVED</h3>
+  <hr>
+  <h4><ol>
+ 		<li>Gender & Sexual Diversity Training in 2017 and 2021 respectively</li>
+		<li>District health information system 2 training for data management in 2016 and 2020 respectively</li>
+		<li>HIV Exposed Infant tracking System in Nov. 2017
+    <li>Data Visualization Training in Oct. 2017</li>
+		<li>Continuous Quality Improvement training in May 2017</li>
+    </ol>
+  </h4>
+<br>
+<h3>WORK EXPERIENCE</h3>
+  <hr>
+  <h4><center>I have over 8 years working as data manager in the health sector.</h4>
+		
+<br>
+ 
+ <h3>PROJECTS COMPLETED WITH DATE</h3>
+	<hr>
+    <h4><ol>
+		<li>Building of first websites in 2024, accessible at https://oludayo1974.github.io/my-cv/. The list of websites developed by me grow by the day</li>
+		<li>Conversion of paper-based healthcare records to electronic records and implementation of District Health Information System (DHISystem) for health institution in Nigeria.</li>
+		<li>Study on the effect of inadequate human resources on the performance of government establishments in Nigeria, completed in 2016.</li>
+		<li>Study on the psychological effect of HIV on the family, completed in 2012</li>
+      </ol></h4>
+<br>
+   <h5><a href="//C:/Users/C%20C%20E%20M/Desktop/Portfolio/WEB%20DEVELOPMENT/My%20Hobbies%20index.html">My Hobbies</a></h5>
+   <h5><a href="///C:/Users/C%20C%20E%20M/Desktop/Portfolio/WEB%20DEVELOPMENT/Contact%20Me%20index.html">Contact Me</a></h5>
+   
+</body>
